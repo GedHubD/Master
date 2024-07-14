@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ProiectTipBiblioteca
+comment0.text=\r\nUtilizatorul\ va\ introduce\ de\ la\ tastatura\ una\ dintre\ urmatoarele\ comenzi\:\ \r\nADD_POEZII\ <titlu>\ <autor>\ <nrPag>\ <nrPoezii>\r\nADD_ROMAN\ <titlu>\ <autor>\ <nrPag>\ <tip>\r\nAF_CARTI\r\nAF_CARTI_SORTATE\r\nAF_AUTOR\ <numeCarte>\r\nEXIT
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

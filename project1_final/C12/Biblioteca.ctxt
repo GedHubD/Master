@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Biblioteca
+comment0.text=Aplicatia\ lucreaza\ cu\ o\ singura\ biblioteca\ si\ trebuie\ sa\ aiba\ urmatoarele\ functionalitati\:\r\nadaugaRoman\r\nadaugaPoezie\r\nafiseazaCarti\r\nafiseazaCartiSortat\r\nafiseazaAutor\r\nexit
+comment1.params=titlu\ autor\ nrPag\ tip
+comment1.target=void\ adaugaCarteRoman(java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment2.params=titlu\ autor\ nrPag\ nrPoezii
+comment2.target=void\ adaugaCarteDePoezii(java.lang.String,\ java.lang.String,\ int,\ int)
+comment3.params=
+comment3.target=void\ afiseazaCarti()
+comment4.params=
+comment4.target=void\ afiseazaCartiSortate()
+comment5.params=carte1\ carte2
+comment5.target=int\ compare(Carte,\ Carte)
+comment6.params=titlu
+comment6.target=void\ afiseazaAutor(java.lang.String)
+numComments=7

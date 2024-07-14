@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Carte
+comment1.params=
+comment1.target=Carte()
+comment2.params=titlu\ autor\ nrPag
+comment2.target=Carte(java.lang.String,\ java.lang.String,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getTitlu()
+comment4.params=
+comment4.target=java.lang.String\ getAutor()
+comment5.params=
+comment5.target=int\ getNrPag()
+comment6.params=
+comment6.target=java.lang.String\ getTip()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

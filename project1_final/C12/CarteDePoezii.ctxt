@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CarteDePoezii
+comment1.params=titlu\ autor\ nrPag\ nrPoezii
+comment1.target=CarteDePoezii(java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=int\ getNrPoezii()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

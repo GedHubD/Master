@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CarteRoman
+comment1.params=
+comment1.target=CarteRoman()
+comment2.params=titlu\ autor\ nrPag\ tip
+comment2.target=CarteRoman(java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getTip()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
